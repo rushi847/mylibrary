@@ -15,5 +15,5 @@ def mult(a,b)
 
 def div{a,b)
 {
-   echo "the quotent of $[a} and [b} is ${a/b}"
+   echo "the quotent of ${a} and [b} is ${a/b}"
 }
